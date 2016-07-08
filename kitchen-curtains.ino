@@ -2,7 +2,7 @@
 #include <PubSubClient.h>
 #include <AccelStepper.h>
 
-// Wifi + Server Configuration
+// Wifi network details and MQTT broker IP
 const char* ssid = "*****";
 const char* password = "*****";
 const char* mqtt_server = "*****";
